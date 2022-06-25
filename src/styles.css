@@ -1,6 +1,6 @@
 body {
     font-family: "Arial";
-    background-color: aqua;
+    background-color: bisque;
 }
 
 h1 {
@@ -88,4 +88,5 @@ li {
 .author {
     text-align: center;
     font-size: 18px;
+    font-family: "Arial";
 }
